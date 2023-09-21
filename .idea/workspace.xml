@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38e33c6a-1d44-4877-a33f-d611aee5a03a" name="Changes" comment=":tada:">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rover.jar" beforeDir="false" afterPath="$PROJECT_DIR$/rover.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/domain/CardinalCompassPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/domain/CardinalCompassPointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/domain/RoverMoveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/domain/RoverMoveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/usecase/MarsMissionParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/usecase/MarsMissionParserTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2VhoBJUCBADNHlFzcri56251UT5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/devs/rover/src/main/java/me/pierrontmaxi/rover/domain&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/devs/rover&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.pierrontmaxi.rover.domain.exception" />
+      <recent name="me.pierrontmaxi.rover.usecase.exceptions" />
+      <recent name="me.pierrontmaxi.rover" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\devs\rover" />
+      <recent name="E:\devs\rover\src\test\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="me.pierrontmaxi.rover.usecase.MarsMissionParser" />
+      <recent name="me.pierrontmaxi.rover.MarsMissionParser" />
+      <recent name="me.pierrontmaxi.rover.Rover" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="me.pierrontmaxi.rover.usecase" />
+      <recent name="me.pierrontmaxi.rover.domain" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="me.pierrontmaxi.rover.domain" />
+      <recent name="me.pierrontmaxi.rover" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.java in Rover">
+    <configuration name="MarsMissionParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.pierrontmaxi.rover.usecase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.pierrontmaxi.rover.usecase" />
+      <option name="MAIN_CLASS_NAME" value="me.pierrontmaxi.rover.usecase.MarsMissionParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverMoveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.pierrontmaxi.rover.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.pierrontmaxi.rover.domain" />
+      <option name="MAIN_CLASS_NAME" value="me.pierrontmaxi.rover.domain.RoverMoveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domain in Rover" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rover" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover/domain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in Rover" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rover" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rover in Rover" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rover" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/me/pierrontmaxi/rover" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in Rover" />
+        <item itemvalue="JUnit.rover in Rover" />
+        <item itemvalue="JUnit.MarsMissionParserTest" />
+        <item itemvalue="JUnit.domain in Rover" />
+        <item itemvalue="JUnit.RoverMoveTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38e33c6a-1d44-4877-a33f-d611aee5a03a" name="Changes" comment="" />
+      <created>1695297536471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695297536471</updated>
+      <workItem from="1695297537649" duration="1411000" />
+      <workItem from="1695300371173" duration="23816000" />
+      <workItem from="1695366236796" duration="817000" />
+    </task>
+    <task id="LOCAL-00001" summary=":tada:">
+      <option name="closed" value="true" />
+      <created>1695315139348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695315139348</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":tada:">
+      <option name="closed" value="true" />
+      <created>1695328320544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695328320544</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":tada:" />
+    <option name="LAST_COMMIT_MESSAGE" value=":tada:" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rover$RoverTest.ic" NAME="RoverTest Coverage Results" MODIFIED="1695328300968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$domain_in_Rover.ic" NAME="domain in Rover Coverage Results" MODIFIED="1695330356379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/rover$MarsNasaMissionTest_testSuccessfulRoverInitialization.ic" NAME="MarsNasaMissionTest.testSuccessfulRoverInitialization Coverage Results" MODIFIED="1695327867158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$MarsMissionParserTest.ic" NAME="MarsMissionParserTest Coverage Results" MODIFIED="1695328114239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1695328109100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$CardinalCompassPointTest.ic" NAME="CardinalCompassPointTest Coverage Results" MODIFIED="1695328099626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$RoverMovementManagerTest.ic" NAME="RoverMovementManagerTest Coverage Results" MODIFIED="1695328288249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$rover_in_Rover.ic" NAME="rover in Rover Coverage Results" MODIFIED="1695329790298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/rover$RoverMoveTest.ic" NAME="RoverMoveTest Coverage Results" MODIFIED="1695329733974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.domain.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$PlateauTest.ic" NAME="PlateauTest Coverage Results" MODIFIED="1695328270831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$MarsNasaMissionTest.ic" NAME="MarsNasaMissionTest Coverage Results" MODIFIED="1695328163868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.pierrontmaxi.rover.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rover$java_in_Rover.ic" NAME="java in Rover Coverage Results" MODIFIED="1695366984732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
